@@ -11,3 +11,9 @@ Thumbs.db
 # IDE files
 .vscode/
 *.swp
+.idea/
+*.iml
+*.xml
+*.exe
+*.o
+*.out
